@@ -14,7 +14,7 @@ body {
 hr {
   max-width: 50px;
   border-width: 3px;
-  border-color: #F05F40; }
+  border-color: #610B0B; }
 
 hr.light {
   border-color: white; }
@@ -41,7 +41,7 @@ p {
   margin-bottom: 20px; }
 
 .bg-primary {
-  background-color: #F05F40 !important; }
+  background-color: #610B0B !important; }
 
 .bg-dark {
   color: white;
@@ -115,7 +115,7 @@ body {
   @media (min-width: 992px) {
     #mainNav {
       border-color: rgba(255, 255, 255, 0.3);
-      background-color: rgba(0,0,0,0.3); 
+      background-color: rgba(0,0,0,0.3);
     }
       #mainNav .navbar-brand {
         color: rgba(255, 255, 255, 0.7); }
@@ -218,7 +218,7 @@ header.masthead {
     text-align: center;
     opacity: 0;
     color: white;
-    background: rgba(240, 95, 64, 0.9);
+    background: #610B0B;
     -webkit-transition: all 0.2s;
     -moz-transition: all 0.2s;
     transition: all 0.2s; }
@@ -300,7 +300,7 @@ header.masthead {
 .btn-primary {
   color: white;
   border-color: #F05F40;
-  background-color: #F05F40; }
+  background-color: #610B0B; }
   .btn-primary.focus, .btn-primary:focus {
     color: white;
     border-color: #a4270d;
