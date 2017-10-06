@@ -40,6 +40,10 @@ p {
   line-height: 1.5;
   margin-bottom: 20px; }
 
+  .oculta {
+    display: none;
+  }
+
 .bg-primary {
   background-color: #610B0B !important; }
 
@@ -297,6 +301,12 @@ header.masthead {
     color: white;
     background-color: #222222; }
 
+    .custom-btn {
+      border: solid 1px #000 !important;
+      margin-left: auto;
+      margin-right: auto;
+    }
+
 .btn-primary {
   color: white;
   border-color: #F05F40;
@@ -306,9 +316,9 @@ header.masthead {
     border-color: #a4270d;
     background-color: #eb3812; }
   .btn-primary:hover {
-    color: white;
+    color: #610B0B;
     border-color: #e13612;
-    background-color: #eb3812; }
+    background-color: #B3C6B3; }
   .btn-primary.active, .btn-primary:active,
   .open > .btn-primary.dropdown-toggle {
     color: white;
