@@ -53,7 +53,11 @@ p {
 	border: 1px solid GREY;
 	}
   
-  
+  .slogan {
+	  background-color: rgba(255, 255, 255, 0.5);
+	  color: #610B0B !important;
+	  
+  }
   
   .oculta {
     display: none;
